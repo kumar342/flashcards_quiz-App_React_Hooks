@@ -87,6 +87,7 @@ function App() {
       <div className="container">
         <FlashcardList flashcards={flashcards} />
       </div>
+      <div></div>
     </div>
   );
 }
